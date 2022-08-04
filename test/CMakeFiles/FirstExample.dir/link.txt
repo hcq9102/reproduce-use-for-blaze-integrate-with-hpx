@@ -1,0 +1,1 @@
+/opt/apps/gcc/12.1.0/bin/g++ CMakeFiles/FirstExample.dir/FirstExample.cpp.o -o FirstExample 

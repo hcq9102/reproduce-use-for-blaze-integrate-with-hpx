@@ -1,0 +1,3 @@
+/work/chuanqiu/Dynamic_project/test/CMakeFiles/FirstExample.dir
+/work/chuanqiu/Dynamic_project/test/CMakeFiles/edit_cache.dir
+/work/chuanqiu/Dynamic_project/test/CMakeFiles/rebuild_cache.dir
